@@ -1,0 +1,20 @@
+Nährwerte/valeurs nutritives / valori nutrizionali
+per/par 100g
+Energie/énergie/energia
+2100 kJ
+506 kcal
+Fett/graisses/grassi
+35,3g
+davon gesättigte Fettsäuren/dontacides gras
+20,7 g
+saturés/di cui acidi grassi saturi
+Kohlenhydrate/glucides/carboidrati
+25,7g
+davonZucker/dontsucres/dicuizuccheri
+2,0g
+Ballaststoffe/fibre
+8,2g
+Eiweiss/protéines/proteine
+23,4g
+Salz/sel/sale
+0,41g

@@ -1,0 +1,9 @@
+Energie/Energie energi/Energy
+Fett/Matières grasses/Fedt/Fat
+davon gesättigte Fettsäuren/dont acides gras saturés/heraf mattede
+fedtsyrer/hvoravmettedefettsyrer/varav mättat fett/of which saturates
+Kohlenhydrate/Glucides/Kulhydrater/Karbohydrat/Kolhydrat/Carbohydrate
+davonZucker/dont sucres/heraf/hvorav sukkerarter/varav sockerarter/
+of which sugars
+Eiweil/sroteines/Protein
+Salz/Sel/Salt

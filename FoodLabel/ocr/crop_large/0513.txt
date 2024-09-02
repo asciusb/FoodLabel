@@ -1,0 +1,46 @@
+vrednost
+Prasjecne
+hranilne
+al).
+vrijednose Valoare medie pentru I
+Durchschnittliche Nährwerte
+api
+g 100
+%RI*
+le
+Energijska vrednost / Energija / Energijaú
+kJ 1952
+Energia / Valoare energetica / Energie
+kcal 466
+23%
+ét
+Mascobe / Masti / Zsír / Grásimi / Fett
+g 19,7
+28%
+0d tega nasicene mascobe / 0d kojih zasicene
+masne kiseline / Amelybol telitett zsirsavak
+Din care acizi grasi saturati
+davon gesättigte Fettsäuren
+g 2,1 11%
+Ogljikovi hidrati / Ugljikohidrati / Szénhidrát
+Glucide / Kohlenhydrate
+g 60,4
+23%
+Od tega sladkorji / Od kojih seceri / Amelybôl
+cukrok / Din care zaharuri / davon Zucker
+g 19,2 21%
+Prehranske vlaknine / Vlakna / Rost
+Fibre / Ballaststoffe
+g 7,5
+Beljakovine / Bjelancevine / Fehérje
+Proteine / Eiweiß
+g 8,0
+16%
+Sol 1 Sol I Só I Sare / Salz
+g 0.875 15%
+V lul 100g termékben / pe / pro: 100g
+Fostor I Fosfor / Foszfor / Phosphor mg 230 / 33% NRV**
+Zelezo / Zeljezo / Vas I Eind tisen mg
+75%
+NAV
+Magnezii / Magnézium

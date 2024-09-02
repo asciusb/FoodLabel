@@ -1,0 +1,18 @@
+Energie/Energia/Energie
+1453 kJ/342 kcal
+Fett/Grassi/Matières
+<0,5g
+davon gesättigte Fettsäuren/
+di cui acidi grassi saturi/
+dont acides gras saturés:
+<0,1g
+Kablenhydrate/Carboidrati/
+Glucides:
+80g
+davon Zucker/di cui zuccheri/
+dont sucres:
+64g
+Eiweiß/Proteine/Proteines:
+4,0g
+Salz/Sale/Sel:
+0,26g

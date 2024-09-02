@@ -1,0 +1,33 @@
+Energie - Energi - C
+Energia - Energy - - Energi -
+kJ 1521
+Wartosc energetyczna - Energie
+kcal 359
+Fett - Fett - Rasva - Fat - Fett - -
+Ttuszcz - Matières grasses
+g 2,0
+davon: gesättigte Fettsäuren - varav: mättat fett -
+josta: tyydyttynyttä - of which: saturates -
+hvorav: mettede fettsyrer - W tym: kwasy tluszczowe nasycone
+dont: acides gras saturés
+g
+0,5
+Kohlenhydrate - Kolhydrat - Hiilihydraatit- -
+Carbohydrate - Karbohydrater -
+Weglowodany if Glucides
+g
+71
+davon: Zucker R varav: sockerarter - josta: sokereita - -
+of which: sugars = hvorav: sukkerarter -
+W tym: cukry S dont: sucres
+g
+3,5
+Ballaststoffe x Fiber C Ravintokuitu -
+Fibre-Kostfiber D L Blonnik S Fibres Alimentaires
+g
+3,0
+Eiweiß e Protein Proteiini - Protein -
+Protein 0 Bialko w Protéines
+g 13
+Salz Salt- Suola a Salt - Salt - Sól - Sel
+g 0,01

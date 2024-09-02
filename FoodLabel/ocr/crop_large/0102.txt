@@ -1,0 +1,90 @@
+HRANLJIVA VREDNOST/NAHRWERTE/DÉCLARATION
+%
+Na/Je/Per/
+Na/Je/Per/
+NUTRITIONNELLE/DICHIARAZIONE NUTRIZIONALE/
+Na/Je/Per/
+Par/Per
+Par/Per
+ARINGSVARDE/VLERAUSHOYESE/NUTRITION
+Par/Per
+DECLARATION/VOEDINGSWAARDEVERMELDING
+100 g
+50g*
+50g
+Energija/Energie/Energie/Energia/Energi/Vlera
+1811 kJ
+906 kJ
+energietike/Energy/Energie
+430kcal
+215kcal
+11%**
+Masti/Fett/Matières grasses/Grassi/Fett/
+12,0g
+6,0
+9%**
+Yndyrera/Fat/Vetter
+od kojih zasicene masne kiseline/ davon gesättigte
+Fettsäuren/ dont acides gras saturés/ di cui acidi
+grassi saturi/ varav mättat fett/nga kjoacide te
+5,7g
+2,9 g
+15%**
+ngopura yndyrore/ of which saturates/ waarvan
+verzadigde vetzuren
+Ugljeni hidrati/Kohlenhydrate/Glucides/
+Carboidrati/Kolhydrat/Karbohidratet/
+68,0g
+34,0 g
+13%**
+Carbohydrate/Koolhydraten
+od kojih seceri/ davon Zucker/ dont sucres/ di cui
+zuccheri/ varav sockerarter/ nga kjo sheqer/ of
+21,0g
+10,5g
+12%**
+which sugars/ waarvan suikers
+Vlakna/ Ballaststoffe/ Fibres alimentaires/Fibre
+3,0g
+1,5g
+/
+alimentari/Fiber/Fije/Fibre/Vezels
+Proteini/Eiweiß/Protéines/Proteine/Protein/
+11,0g
+5,5g
+11%**
+Proteinat/Eiwitten
+So/Salz/Sel/Sale/Salt/Kripe/Salt/Zout
+0,96g
+0,48g
+8%**
+VitaminC/VitamineC/VitaminaC/
+12,2mg
+(15%***)
+6,1 mg
+VitaminC
+8%***
+Tiamin/Thiamin/Thiamine/Tiamina
+0,9 mg (82%***)
+0,45 mg
+41%***
+Niacin/Niacine/Niacina/Niacine
+14,0mg
+(88%***)
+7,0 mg
+44%***
+VitaminB6/VitamineB6/VitaminaB6/VitamineB6
+1,3 mg
+(93%***)
+0,65 mg
+46%***
+*porcija/ Portion/ portion/ porzione/ porcione/ portie - 50g (6 jelovnih kasika mlevenog
+keksa/ Esslöffel gemahlene Kekse/ cuillères a soupe de biscuits moulus/ cucchiai dei biscotti
+macinati/ matskedar av malda kex/ luke gjelle te biskotes sè bluar/table spoons of ground
+biscuits/ eetlepels gemalen koekjes); 5 x 50g ==300g) porcija u pakovanju/Portionen.pro
+Packung/portions par paquet/porzioni per confezione/portioner per förpackning/ porcione
+ne paketim/portions per pack/porties per verpakking
+Referentn unos za prosecnu odraslu osobu/ Referenzmenge für einen durchschnittlichen
+Erwachsenen/ Apport de référence pour un adulte-type/ Assunzioni di riferimento per un
+adulto medio/ Referensintag for en genomsnittlig vuxen/ Konsumi i rekomanduar per nje
+person mesatarisht te rritur/Reference intake of an average adult/Referentie-inname van

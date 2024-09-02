@@ -1,0 +1,34 @@
+Nährwerte/
+Pro/Par
+%* Pro/Par
+valeurs nutritives
+Portion (100 ml)
+Portion
+Energie/énergie
+658 kJ/157 kcal
+8%
+Fett/matières grasses
+12g
+17%
+davon gesättigte Fettsäuren/
+7,1g
+36%
+dont acides gras saturés
+Kohlenhydrate/glucides
+9,6g
+4%
+davon Zucker/dont sucres
+3,4 g
+4%
+Ballaststoffe/fibres
+0,6g
+Eiweiss/protéines
+3,0g
+6%
+Salz/sel
+1,5 g
+25%
+*% der Referenzmenge für einen durchschnittlichen
+el
+Erwachsenen/d'Apport de référence pour un adulte
+type (8400kJ/2000kcal).

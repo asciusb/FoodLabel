@@ -1,0 +1,27 @@
+Gemiddelde voedingswaarden/Valeurs nutritionnelles moyennes /
+per / pour /
+je /w
+Durchschnittliche Nährwerte/Wartosc odzywcza /Vyzivové údaje
+na 100 g
+Povprecna hranilna vrednost/Atlagos tápérték
+1431
+Energie / Energie / Energia / Energetická hodnota /
+340kcal
+Energijska vrednost
+Vetten / Matières grasses / Fett / Ttuszcz / Tuky / Mascobe / Zsir
+10,2g
+waarvan verzadiade vetzuren / dont acides gras saturés /
+davon gesättigte Fettsäuren / W tym kwasy ttuszczowe nasycone /
+Z toho nasycené mastné kyseliny / od tega nasicene mascobe /
+amelyböl telitett zsirsavak
+1,0g
+Koolhydraten / Glucides / Kohlenhydrate / Weglowodany /
+Sacharidy / Ogljikovi hidrati / Szénhidrát
+53,8g
+waarvan suikers / dont sucres / davon Zucker / W tym cukry /
+Z toho cukry / od tega sladkorji / amelyböl cukrok
+4,3g
+Eiwitten / Protéines / Eiweiß / Bialko / Bilkoviny / Beljakovine / Fehérje
+7,5g
+Zout / Sel/Salz / S6l/Sul/Sol/So
+1,8g

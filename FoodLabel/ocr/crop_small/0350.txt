@@ -1,0 +1,36 @@
+Valori
+Energiewert
+233
+valeur énergétique
+kJ
+valore
+(55
+energetico
+kcal)
+Fett / matières
+grasses / grassi
+0g
+davon gesättigte
+Fettsäuren /
+dont acides gras
+saturés / di cui aci-
+di grassi saturi
+0g
+Kohlenhydrate /
+glucides/carboidrati
+13 g
+davon Zucker
+dont sucres
+di cui zuccheri
+12g
+Ballaststoffe
+fibres alimentaires
+fibre alimentari
+Eiweiss / pro-
+0,7g
+téines / proteine
+Salz / sel / sale
+<0,5g
+RM
+0 g
+= Retain

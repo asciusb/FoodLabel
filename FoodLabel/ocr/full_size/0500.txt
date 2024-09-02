@@ -1,0 +1,17 @@
+/
+Energiewert
+Valeurs energétiques
+Fett / Matière Grasse
+davon gesättigte Fettsäuren
+12
+dont acides gras satures
+Kohlenhydrate / Glucides
+4.0
+davon Zucker / dont sucres
+2,8
+Eiweiss / Protéines
+6.5
+Salz / Sel
+9
+1,2
+0.24

@@ -1,0 +1,58 @@
+offich
+Durchschnittliche Nährwerte Average nutri
+pro/per/
+pro/per/ pro/per/par
+tional value /Valeurs nutritionelles moyennes:
+par 100 g
+par Portion*
+Portion**
+Brennwert / energy / énergie:
+1714 kJ
+584 kJ
+409kcal
+139kcal
+7%
+Fett / fat / matières grasses:
+15,8g
+5,4 g
+8%
+davon gesättigte Fettsäuren / of which
+saturates / dont acides gras saturés:
+5,2 g
+1,8g
+9%
+Kohlenhydrate / carbohydrate / glucides:
+57,3g
+19,5g
+7%
+davon Zucker / of which sugar 7 dont sucres:
+34,7g
+11,8g
+13%
+Ballaststoffe / fibre / fibres alimentaires:
+5,6g
+1,9 g
+Eiweiß / protein / protéines:
+7,6g
+2,6g
+5%
+oa
+Salz / salt / sel:
+0,28 g
+0,10 g
+2%
+%
+*
+1 Portion = 1 Stück = ca. 34 g. Die Packung enthält 6 Portionen.
+int:
+1 portion = 1 piece = approx. 34 g. The package contains 6 portions.
+ose
+1 portion = 1 pièce = env. 34 g. L'article contient 6 portions.
+lum
+Referenzmenge für einen durchschnittlichen Erwachsenen (8400 kJ / 2000 kcal).
+ectin.
+Reference intake of an average adult (8400 kJ / 2000 kcal).
+Apport de référence pour un adulte-type (8400 kJ /2000 kcal).
+Hergestellt von/Made by/Fabriqué par
+R
+18°C

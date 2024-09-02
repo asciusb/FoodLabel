@@ -1,0 +1,29 @@
+Déclaration nutritionnelle -
+Nährwertdeklaration - Näringsvärde
+Voedingswaarde
+100g g
+Energie Energie
+kJ 1360
+Energi-Energie
+kcal 329
+Matières grasses - Fett LE Fett - Vetten
+g
+29
+dont: acides gras saturés
+davon: gesättigte Fettsäuren
+varav: mättat fett -
+waarvan: verzadigde vetzuren
+g 3,4
+Glucides - Kohlenhydrate -
+Kolhydrat - Koolhydraten
+g 12
+dont: sucres - davon: Zucker
+varav: sockerarter - waarvan
+g 7,8
+Fibres alimentaires - Ballasts
+Fiber - Vezels
+g 2,3
+Protéines M Eiweiß - Protein
+g 3,8
+Sel . Salz - Salt - Zout
+g 2,8

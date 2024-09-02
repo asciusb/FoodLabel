@@ -1,0 +1,17 @@
+Energy/Energie/ Valeur énergétique/Energia
+1721kJ/409kcal
+Fat/Fett/Lipides/Grassi
+21.7g
+of which saturates /davon gesättigte Fettsäuren/don graisses saturées
+/di cui saturi/
+10.4g
+Carbohydrate /Kohlenhydrate/Glucides/Carboidrati
+47.5g
+of which sugars /davon Zucker/dont sucres/di cui zuccheri
+31.3g
+Fibre/Ballaststoffe/fibres alimentaires/fibre alimentari
+4.6g
+Protein /Eiweiß/Proteines/Proteine/
+6.2g
+Salt /Salz/Sel/Sale
+0.44g

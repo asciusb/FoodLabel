@@ -1,0 +1,23 @@
+Energy kJ/Energie/Brennwert/Valor energético/
+2211 kJ
+Energia/Energie
+Energy kcal
+529 kcal
+Fat/Lipides/Fett/Grasas/Grassi/Vetten
+30.0 g
+of which saturates/dont acides gras saturés/
+18.7 g
+davon gesättigte Fettsäuren/de las cuales saturadas/
+dei quali saturi/waarvan verzadigd
+Carbohydrate/Glucides/Kohlenhydrate/Carbohidratos/
+58.2 g
+Carboidrati/Koolhydraten
+of which sugars/dont sucres/davon Zucker/
+16.5 g
+de los cuales azúcares/dei quali zuccheri/waarvan suikers
+Fibre/Fibres/Ballaststoffe/Fibra/Fibre/Vezels
+2.0 g
+Protein/Protéines/Eiweiß/Proteínas/Proteine/Eiwitten
+5.6 g
+Salt/Sel/Salz/Sal/Sale/Zout
+0.68 g

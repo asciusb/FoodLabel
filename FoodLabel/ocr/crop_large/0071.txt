@@ -1,0 +1,43 @@
+Nährwerte/
+Pro/Par 100 g
+Pro/Par Portion
+%* Pro/Par
+valeurs nutritives
+zubereitet/préparé
+(244g)
+Portion
+Energie/énergie
+362 kJ/84kcal
+883 kJ/206kcal
+11%
+Fett/matières grasses
+2,9 g
+7,0g
+10%
+davon gesättigte Fettsäuren/
+dont acides gras saturés
+1,8g
+4,4 g
+22%
+Kohlenhydrate/glucides
+12 g
+30g
+12%
+davon Zucker/dont sucres
+1,9 g
+4,6g
+5%
+Ballaststoffe/ fibres
+1,2g
+3,0g
+Eiweiss/protéines
+2,4g
+5,9 g
+12%
+Salz/sel
+0,25g
+0,61
+10%
+*% der Referenzmenge für einen durchschnittlichen Erwachsenen/d'Apport de
+référence pour un adulte type (8400 kJ/2000 kcal).
+.

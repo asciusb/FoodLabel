@@ -1,0 +1,29 @@
+0
+NUTRICIONAL - valores médios por 100g de produto.
+DECLARATION - average values per 100g of product.
+EXECUTATION NUTRITIONNELLE - valeurs moyennes par 100g de produit.
+Energia/Energy/Energie (kJ/Kcal)
+993/239
+Lípidos/Fat/Graisses
+16,9g
+dos quais saturados/a of which saturates/dont acides gras saturés
+5,45g
+dos quais polinsaturados/of which polyunsaturates/dont acides gras
+polyinsaturés
+6,82g
+Hidratos de Carbono/Carbohydrate/Glucides
+3,2g
+dos quais açúcares/dont sucres/of which sugars
+0g
+Fibra/Fibre/Fibres alimentaires
+0g
+Proteinas/Protein/Proteines
+18,4g
+Sal/Salt/Sel
+1,24g
+Omega 3 (C18:3)
+Por/per/pour 100g
+Por/per/pour 100kcal
+3,56g
+1,49g
+Sardinhas: Origem HE HE (Sandiness Hundred Ellegicio

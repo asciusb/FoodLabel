@@ -1,0 +1,19 @@
+Energia/Energy/Energie (kJ/Kcal)
+993/239
+Lípidos/Fat/Graisses
+16,9g
+dos quais saturados/of which saturates/dont acides gras saturés
+5,45g
+dos quais polinsaturados/of which polyunsaturates/dont acides gras
+polyinsaturés
+6,82g
+Hidratos de Carbono/Carbohydrate/Glucides
+3,2g
+dos quais açúcares/dont sucres/of which sugars
+Fibra/Fibre/Fibres alimentaires
+0g
+0g
+Proteinas/Protein/Proteines
+18,4g
+Sal/Salt/Sel
+1,24g

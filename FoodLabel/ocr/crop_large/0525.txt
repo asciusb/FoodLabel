@@ -1,0 +1,21 @@
+Nährwertangaben/
+valeurs nutritionnelles
+Pro/Par 100 g
+Energie / énergie
+1487 kJ/
+355 kcal
+Fett / matières grasses
+<0,5 g
+davon gesättigte Fettsäuren /
+dont acides gras saturés
+<0,1 g
+Kohlenhydrate / glucides
+86 g
+davon Zucker / dont sucres
+<0,5 g
+Ballaststoffe / fibres alimentaires
+1,0 g
+Eiweiss / protéines
+<0,5g
+Salz / sel
+<0,01 g

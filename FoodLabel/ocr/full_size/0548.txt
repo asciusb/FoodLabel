@@ -1,0 +1,44 @@
+Déclaration nutritionnelle-
+200ge
+Nahrwertdeklaration - Näringsvärde -
+Voedingswaarde
+100g
+90mle
+Energie - Energie .
+kJ 1360
+Energi-Energie -
+kcal 329
+Matières grasses - Fett - Fett - Vetten
+g
+PE
+01
+29
+dont: acides gras saturés
+davon: gesättigte Fettsäuren
+varav: mättat fett
+barilla.com
+waarvan: verzadigde vetzuren
+g 3,4
+Glucides - Kohlenhydrate
+-
+Kolhydrat - Koolhydraten
+g
+12
+dont: sucres - davon: Zucker
+varav: sockerarter - waarvan
+g 7,8
+Fibres alimentaires - Ballasts
+Fiber - Vezels
+g
+2,3
+Protéines M Eiweiß - Protein
+g
+3,8
+con
+Sel - Salz - Salt - Zout
+g
+2,8
+SANS GLUTEN / GL
+REI /
+GLUTENFRI / GLU ENVRIJ
+BALSI

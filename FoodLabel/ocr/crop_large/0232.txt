@@ -1,0 +1,18 @@
+1,100g
+Energie / Energy / Energia /Valor energético / Energi / Energetická hodnota
+1453 KJ/351 kcal
+Matières grasses
+Vetter
+Fat / Grassi/Grasas / Lípidos/Thusza Fedt / Tuky
+31 g
+tigte Fettsäuren / waarvan verzadigde vetzuren / of which saturates / di cui acidi grassi saturi /
+22
+de las cuales saturadas dos quais saturados tym kwasy nasycone / varav mättat fett / heraf mattede fedtsyrer / Z toho nasycené mastné kyseliny
+Glucides / Kohlenhydrate / Koolhydraten / Carbohydrate / Carboidrati / Hidratos de carbono / Weglowodany / Kolhydrat / Kulhydrat / Sacharidy
+1g
+dont sucress / davon Zucker / waarvan suikers of which sugars / di cui zuccheri / de los cuales azúcares / dos quais açúcares / W tym cukry / varav sockerarter / heraf sukkerarter / Z toho cukry
+<0,5 g
+Protéines Eiweiß / Eiwitten / Protein / Proteine / Proteínas / Bialko / Bilkoviny
+17g
+Self Salz / Zout Sul
+1,40g

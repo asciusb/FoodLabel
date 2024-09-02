@@ -1,0 +1,17 @@
+100 genthalten/contiennent/contain/contengono
+Energie/énergie/energy/energia
+2344 kJ/563 kcal
+Fett/graisses/fot/grassi
+37 g
+davon gesättigte Fettsäuren/dont acides gras saturés/
+of which saturates, / di cui acidi grassi saturi
+26g
+Kohlenhydrate/glucides/carbohydrate/carboidrati
+55g
+davon Zucker/dont sucres/of which sugars/
+di cui zuccheri
+34g
+Eiweiss/protéines/protein/proteine
+5.9g
+Salz/sel/salt/sale
+0.14g

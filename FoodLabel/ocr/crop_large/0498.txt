@@ -1,0 +1,29 @@
+CIONAL- - valores médios por 100g de produto escorrido.
+CECTARATION - average values per 100g of drained product.
+DECL INJUTRITIONNELLE-valeurs - moyennes par 100g de produit égoutté.
+pound
+Energia/Energy/Energia/Energy/Energia (kJ/Kcal)
+870/209
+Lípidos/Fat/Graisses
+12,7g
+dos quais saturados/a of which saturates/dont acides gras saturés
+3,28g
+dos quais polinsaturados/of which polyunsaturates/dont acides gras
+polyinsaturés
+6,01g
+Hidratos de Carbono/Carbohydrate/Glucides
+0g
+dos quais açúcares/dont sucres/of which sugars
+Fibra/Fibre/Fibres alimentaires
+Proteinas/Protein/Proteines
+23,5g
+Sal/Salt/Sel
+1,24g
+0650
+Omega 3 (EPA + DHA)
+Por/per/pour 100g*
+Por/per/pour 100kcal*
+1610mg
+770mg
+Continue
+P<<<<<<

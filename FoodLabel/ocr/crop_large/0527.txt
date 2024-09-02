@@ -1,0 +1,52 @@
+100
+2
+%** /2
+(33,3g)
+(33,3g)
+Energie
+1584kJ
+528 id
+6%
+375 kcal
+125kcal
+Matières grasses / Vetten / Fett
+4,9 g
+1,6 g
+2%
+dont acides gras saturés /
+waarvan verzadigde vetzuren /
+2,3 g
+0,8 g
+4%
+davon gesättigte Fettsäuren
+Glucides / Koolhydraten /
+80 g
+27 g
+10%
+Kohlenhydrate
+dont sucres / waarvan suikers /
+33 g
+11 g
+12%
+davon Zucker
+Fibres alimentaires / Vezels /
+1,7 g
+0,6 g
+-
+Ballaststoffe
+Protéines / Eiwitten / Eiweiss
+5,0g
+1,7 g
+3%
+Sel / Zout / Salz
+0,34 g
+0,11 g
+2%
+** Apport de référence pour un adulte-type (8400 kJ / 2000 kcal)./
+**
+Referentie-inname van een gemiddelde volwassene
+(8400 kJ / 2000 kcal). /** Referenzmenge für einen durchschnittlichen
+Erwachsenen (8400 kJ / 2000 kcal).
+1 portion = 33,3 g. Ce paquet contient 6 portions.
+1 Portion = 33,3 g.6 Portionen pro Packung.
+1 portie = 33,3 g. Deze verpakking bevat 6 porties.

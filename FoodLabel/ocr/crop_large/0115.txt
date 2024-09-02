@@ -1,0 +1,33 @@
+100g enthalten/contiennent/ contengono/ contain:
+1Portion/
+sachet = 42g
+Energie/énergie/ energia/ energy
+2270kJ/
+953kJ/
+544kcal
+228kcal
+Fett/graisses/ grassi/ fat:
+34g
+14g
+davon gesättigte Fettsäuren/
+2.0g
+0.8g
+dont acides gras saturés/ di cui acidi
+grassi saturi/ of which saturates
+Kohlenhydrate / glucides/ carboidrati/
+51g
+21g
+carbohydrates:
+davon Zucker/ dont sucres/ di cui
+5.1g
+2.1g
+zuccheri/ of which sugars
+fibres alimentaires/ fibre/ fibre
+5.3g
+2.2g
+Salz/sel/ sale salt
+proteine/ protein
+5.5g
+2.3g
+1.2g
+0.50g

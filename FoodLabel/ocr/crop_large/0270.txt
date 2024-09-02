@@ -1,0 +1,18 @@
+Nährwertangaben/Valeurs Nutritives/Valore
+Nutritivo/ pro/par/per 100g:
+Energie/Energie/Energia
+1914kJ/456kcal
+Fett/Matières grasses/Grassi
+18.7g
+davon gesättigte Fettsäuren/dont acides
+gras saturés/di cui acidi grassi saturi
+9.3g
+Kohlenhydrate/Glucides/Carboidrati
+68.1g
+davon Zucker/dont sucre/di cui zuccheri 37.0g
+Ballaststoffe/Fibres alimentaires/Fibre
+0.7g
+Eiweiß/Protéines/Proteine
+3.6g
+Salz/Sel/Sale
+0.53g

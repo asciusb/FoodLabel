@@ -1,0 +1,48 @@
+AA
+energia/ Energie/ énergie/ energy/ valor
+1521 kJ/k
+energético/ energia/ energie/ wartosc
+359 kcal/kkan
+energetyczna/ energetická hodnota/ valoare
+energetica/ / Energi/ Energi/
+Energi/ Energia/ Energia/ energija/
+/
+grassi/ fett/ matières grasses/ fat/ grasas/ lípidos/
+1,5g/r
+vetten/ ttuszcz/ tuky/ grasimi/ / Fett/ Fedt/
+Fett/ Rasva/ tuky/ masti/ /
+will
+di cui acidi grassi saturi/ davon gesättigte Fettsäuren/
+0,5g/r
+dont acides gras saturés/ of which saturates/ de las
+cuales saturadas/ dos quais saturados/ waarvan
+verzadigde vetzuren/ W tym kwasy ttuszczowe
+nasycone/ Z toho nasycené mastné kyseliny/ din care
+acizi grasi saturati/ HNX
+varav mättat fett/ heraf maettede fedtsyrer/
+Invorav mettede fettsyrer/ josta tyydyttynyttä/ Z toho
+nasytené mastné kyseliny/ od kojih zasicene masne
+kiseline/ OT / delive lgis
+carboidrati/ Kohlenhydrate/ glucides/ carbohydrate/
+72g/r
+hidratos de carbono/ hidratos de carbono/ koolhydraten/
+weglowodany/ sacharidy/ glucide/ / Kolhydrat/
+Kulhydrat/ Karbohydrat/ Hiilihydraatit/ sacharidy/
+ugljikohidrati/ /
+always
+di cui zuccheri/ davon Zucker/ dont sucres/ of which
+2,5g/r
+sugars/ de los cuales azúcares/ dos quais açúcares/
+waarvan suikers/ W tym cukry/ Z toho cukry/ din care
+zaharuri/ caxapa/ varav sockerarter/ heraf
+sukkerarter/ hvorav sukkerarter/ josta sokereita/ Z toho
+cukryl od kojih seceri/ OT /
+proteine/ Eiweiß/ protéines/ protein/ proteínas/
+13g/r
+proteínas/ eiwitten/ bialko/ bilkoviny/ proteine/
+/ Protein/ Protein/ Protein/ Proteiini/
+bielkoviny/ bjelancevine/ /
+sale/ Salz/ sel/ salt/ sal/ sal/ zout/ sól/ sul/ sare/
+0,005g/r
+Conb/ Salt/ Salt/ Salt/ Suola/ sol/ sol/ con/
+ach

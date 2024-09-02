@@ -1,0 +1,33 @@
+nutritional values Gemiddelde woodingswearde/ Valeurs nutritionnelles
+per/pour/pro
+Average nutritional values/Gemiddelde woedingswaarde/Valeurs nutritionnelles
+per/pour/pro
+*Re
+Nährwerte/Valor nutricional media/Valorí nutrizionali medi
+per/por: 100g
+moyennes/Durchschnittliche Nährwerte/Valor nutricional medio/Valorinutrizionali medi
+per/por. 100g
+adu
+energético:
+256 kj/61 kcal
+of which sugars/waarvan suikers/dont sucres/
+gen
+Fat/Vetter/Matieres grasses/Fett/Grassi/Grasas:
+0g
+davon Zucker/dicuizuccheri/de los cuales azúcares:
+12g
+of which saturates/waarvan verzadigde vetzuren/dont
+Fibres/Vezels/Fibres/Ballaststoffe/Fibre/Fibras
+lg
+acides gras saturés/davon gesättigte Fettsäuren/
+Protein/Eiwitten/Protéines/EiweiB/Proteine/Proteínas
+di cui acidi grassi saturi/de las cuales saturadas:
+<0.5g
+og
+Carbohydrate/Koolhydraten/Glucides/Kohlenhydrate/
+Salt/Zout/Sel/Salz/Sale/Sal:
+og
+Carboidrati/Hidratos de carbono:
+14g
+Vitamin C/Vitamine C/Vitamina C:
+42mg/53%*

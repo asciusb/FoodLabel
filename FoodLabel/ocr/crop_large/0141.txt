@@ -1,0 +1,46 @@
+Nährwerte/
+Pro/Par
+Pro/Par
+%* Pro/Par
+valeurs nutritives
+100 ml
+Portion
+Portion
+(250 ml)
+Energie/énergie
+121 kJ
+305 kJ
+4%
+29 kcal
+73 kcal
+Fett/matières grasses
+0,6g
+1,5 g
+2%
+davon gesättigte Fettsäuren/
+dont acides gras saturés
+0,3g
+0,7 g
+4%
+Kohlenhydrate/glucides
+4,3 g
+11g
+4%
+davon Zucker/dont sucres
+0,7g
+1,7 g
+2%
+Ballaststoffe/fibres
+<0,5g
+0,6g
+Eiweiss/protéines
+1,3 g
+3,2 g
+6%
+ch
+Salz/sel
+0,91g
+2,3 g
+38%
+*% der Referenzmenge für einen durchschnittlichen Erwachsenen/
+d'Apport de référence pour un adulte type (8400kJ/2000kcal).

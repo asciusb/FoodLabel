@@ -1,0 +1,42 @@
+Serving/ Portion/
+Per/
+Nutritional values/Valeurs
+Portie/Porzione/
+Pour/
+nutritionnellesWoedingswaarden/
+Porción/ Porção
+Pro/ Por
+Valori nutrizionali/Valores
+(20g)
+100g
+nutricionales/Valores nutricionais
+343kJ
+1816kJ
+Energy/ Energie/ Energie/ Energia/
+Valor energético/ Energia
+83kcal
+434kcal
+Fat/ Matières grasses/Vetten/
+2.6g
+13g
+Grassi/ Grasas Lípidos
+of which saturates/ dontacides gras saturés/
+0.3g
+1.5g
+waarvan verzadigde vetzuren/ di cui acidi
+grassi saturi/ de las cuales ácidos grasos
+saturados/ dos quais ácidos gordos saturados
+Carbohydrate/ Carboidrati/ Glucides/ Koolhydraten/
+Hidratos de carbonorate
+15g
+74g
+of suikers/ which di sugars/ cui dont
+azúcares/ dos zucchensucres/waarvan quais acúcares de los cuales
+1.2g
+6.2g
+Proteins/ Proteínas Proteines/ Eiwitten/ Proteine/
+1g
+5.1g
+Salt/ Sel/ Zout/ Sale/Sal
+0.2g
+1g

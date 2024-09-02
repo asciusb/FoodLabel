@@ -1,0 +1,48 @@
+Nährwertdeklaration - Déclaration nutritionnelle
+Voedingswaarde ⑉ Nutrition declaration
+Wartoscodzywcza - Valori Nutritionale Medii
+g
+100
+Energe
+Energie Energie - Energy
+kJ
+281
+Warto
+etyczna - Valoare energetica
+kcal
+67
+L'O
+Fett
+asses - Vetten-F - Fat- -
+Thusza
+g 3,7
+poi
+davo
+te Fettsäuren - dont: acides
+gras S
+waarvan: verzadigde vetzuren -
+of whi
+rates - W tym: kwasy ttuszczowe
+nasycor
+care: acizi grasi saturati
+g 0,4
+Kohlenhydrate - Glucides - Koolhydraten
+-
+Carbohydrate - Weglowodany - Glucide
+g
+6,2
+davon: Zucker - dont: sucres - waarva suikers-
+of which: sugars - W tym : cukry - dinis
+zaharuri
+g
+5,2
+Ballaststoffe - Fibres alimentaires
+Vezels - Fibre - - Btonnik - Fibre
+g
+1,8
+Eiweiß - Protéines - Eiwitten - Protein
+Proteine
+g
+1,4
+Salz - Sel - Zout - Salt - Sól - Sare
+g 0,96

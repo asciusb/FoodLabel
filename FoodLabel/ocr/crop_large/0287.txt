@@ -1,0 +1,18 @@
+Nährwertangaben pro 100 g / Informations nutritionnelles pour 100
+Energie / énergie
+1648 kJ / 388 kc
+Fett / matières grasses
+1,9
+davon: / dont:
+- gesättigte Fettsäuren / acides gras saturés
+1,7
+Kohlenhydrate / glucides
+92
+davon:/ dont:
+-
+Zucker / sucres
+69
+Eiweiß / protéines
+0
+Salz / sel
+0,1

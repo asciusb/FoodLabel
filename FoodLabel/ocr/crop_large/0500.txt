@@ -1,0 +1,20 @@
+Nahrwerte /
+Valeurs nutritionnelles
+Valeurs energétiques
+Energiewert/
+$45.kJ
+204kcal
+169kJ
+Fett/ Matière Grasse
+davon gesättigte Fettsäuren
+3.6
+dont acides gras saturés
+Kohlenhydrate / Glucides
+davon Zucker / dont sucres
+0.89
+0.69
+Eiweiss / Protéines
+6.5g
+1.3g
+Salz/Sel
+0.24g

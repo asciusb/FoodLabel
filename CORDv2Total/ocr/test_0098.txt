@@ -1,0 +1,35 @@
+Pancie
+FOOD
+TILUNOTA
+NO
+1
+Quality/K
+Presentat
+Taste/Ras
+BEVERAG
+Quality/K
+Presentat
+Taste/Ra
+1 BLACK PEPPER MEATBALL PAS
+79,000
+1 TRUFFLE CREAM
+77,000
+SERVICE
+1 EARL GREY MILK TEA
+59,000
+Friendlin
+SUBTTL
+215,000
+Service Charge 6%
+12,900
+Promptn
+TAX 10%
+22,790
+Attentiv
+Time/Wa
+TOTAL
+250,690
+OTHERS
+Cleanline
+Ambiance
+Value for I
